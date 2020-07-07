@@ -12,7 +12,7 @@
   "author": "OwO",
   "license": "Private Nigger How Did You Get This?",
   "dependencies": {
-    "electron": "^1.7.6"
+    "electron": "^9.1.0"
   },
   "devDependencies": {
     "electron-packager": "^9.0.1"
